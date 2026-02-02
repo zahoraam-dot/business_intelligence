@@ -22,7 +22,7 @@ This project analyzes Airbnb listing data to compare the Columbus, Ohio and New 
 | 2 | [best satisfaction neighborhood] | [neighborhood, reviews] | [listings.csv] | [structured] |
 | 3 | [costly room types] | [price, room type] | [listings.csv] | [structured] |
 | 4 | [neighborhood price and availability] | [neighborhood, calendar, price, city] | [listing.csv, calendar.csv] | [structured] |
-| 5 | [Question 5] | [reviews, amount ] | [listings.csv] | [What type?] |
+| 5 | [reviews and bookings] | [reviews, amount ] | [listings.csv] | [What type?] |
 
 ## Data Overview
 - **Columbus, Ohio:** [X] listings (as of Sept 26, 2025)
